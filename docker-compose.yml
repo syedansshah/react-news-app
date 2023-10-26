@@ -1,0 +1,6 @@
+version: '3'
+services:
+  frontend:
+    image: new-aggregator:latest # Use the image name from Step 1
+    ports:
+      - "3000:80" # Map host port 3000 to container port 80
