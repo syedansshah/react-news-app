@@ -96,17 +96,17 @@ To run the project in development mode:
 ## User Preferences
 
 Users can customize their news feed by selecting their preferred sources, categories, and authors. These preferences are managed in the user preferences section of the application.
-### Source 1
+### Source 1 NEWS API
 
-    Description of Source 1
+    NEWS API
 
-### Source 2
+### Source 2 THE GUARDIAN
 
-    Description of Source 2
+    GUARDIAN
 
-### Source 3
+### Source 3 NEW YORK TIMES
 
-    Description of Source 3
+    NEW YORK TIMES
 
 ## Deployment
 
